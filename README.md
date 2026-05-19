@@ -1,22 +1,31 @@
-# ENGLISH
+# GuessTheNumber / Угадай число
 
-# GuessTheNumber
+---
 
-A simple and stylish game in which the user must guess a random number from 1 to 100 within a limited number of attempts.
+## 🌍 English
 
-I know that I wrote useless crap, I just had nothing to do, but I wanted to do something and I decided to write this.
+A simple and stylish desktop game
 
-Please without negative.
+### 📝 Description
+The user must guess a randomly generated number from 1 to 100 within a limited number of attempts. 
 
+### ✨ Features
+* **Modern UI**: Clean dark theme interface powered by `customtkinter`.
+* **Input Validation**: Robust error handling that prevents crashes if text is entered instead of numbers.
+* **Simple Logic**: Lightweight and straightforward application structure.
 
-# РУССКИЙ
+---
 
-# Угадай число
+## 🇷🇺 Русский
 
-Простая и стильная игра в которой игрок угадывает рандомное число от 1 до 100 с ограниченным количеством попыток.
+Простая и стильная игра с графическим интерфейсом
 
-Я знаю что написал бесполезную фигню, мне просто было скучно и нечего делать, но хотелось сделать что то и решил написать это.
+### 📝 Описание
+Игрок должен угадать случайное число от 1 до 100 за ограниченное количество попыток. 
 
-Прошу без негатива.
+### ✨ Особенности
+* **Современный UI**: Стильный темный интерфейс на базе библиотеки `customtkinter`.
+* **Валидация ввода**: Защита от ошибок (программа не ломается, если вместо цифр ввести буквы).
+* **Простая логика**: Легкая структура кода, в которой удобно разбираться новичку.
 
 
